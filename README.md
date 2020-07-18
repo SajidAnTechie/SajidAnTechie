@@ -15,11 +15,11 @@ Outside of [GitHub](https://github.com/SajidAnTechie/), You can **find me.**
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="50px">
 </a>
 <a href="https://medium.com/@sajidansari33272">
-<img src="./assests/facebook.png" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/facebook.png" width="50px">
 </a>
 <a href="https://medium.com/@sajidansari33272">
-<img src="./assests/twitter.png" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/twitter.png" width="50px">
 </a>
 <a href="https://medium.com/@sajidansari33272">
-<img src="./assests/instagram.png" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/instagram.png" width="50px">
 </a>
