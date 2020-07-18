@@ -12,7 +12,7 @@ Hi, I'm Sajid Ansari, a passionate self-taught Full Stack developer from Nepal.
 Outside of [GitHub](https://github.com/SajidAnTechie/), You can **find me.**
 
 <a href="https://medium.com/@sajidansari33272">
-<img src="./assests/medium.webp" width="50px">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="50px">
 </a>
 <a href="https://medium.com/@sajidansari33272">
 <img src="./assests/facebook.png" width="50px">
