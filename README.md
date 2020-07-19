@@ -14,12 +14,12 @@ Outside of [GitHub](https://github.com/SajidAnTechie/), You can **find me.**
 <a href="https://medium.com/@sajidansari33272">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/medium.webp" width="50px">
 </a>
-<a href="https://medium.com/@sajidansari33272">
+<a href="https://www.facebook.com/atif.ansari.31337194">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/facebook.png" width="50px">
 </a>
-<a href="https://medium.com/@sajidansari33272">
+<a href="https://twitter.com/TheSajidAnsari">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/twitter.png" width="50px">
 </a>
-<a href="https://medium.com/@sajidansari33272">
+<a href="https://www.instagram.com/atif.ansari.31337194">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/instagram.png" width="50px">
 </a>
