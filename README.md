@@ -17,6 +17,8 @@ Hi, I'm Sajid Ansari, a passionate self-taught Full Stack developer from Nepal.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=SajidAnTechie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
+![github stats](https://github-readme-stats.vercel.app/api/pin/?username=sajidantechie&repo=sajidantechie&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 Outside of [GitHub](https://github.com/SajidAnTechie/), You can **find me.**
 
 <a href="https://medium.com/@sajidansari33272">
