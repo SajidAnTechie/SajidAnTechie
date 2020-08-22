@@ -30,3 +30,6 @@ Outside of [GitHub](https://github.com/SajidAnTechie/), You can **find me.**
 <a href="https://www.instagram.com/atif.ansari.31337194">
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/instagram.png" width="50px">
 </a>
+<a href="https://gitlab.com/SajidAnsari">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/gitlab.png" width="50px">
+</a>
