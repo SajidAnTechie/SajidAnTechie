@@ -2,6 +2,10 @@
 
 Hi, I'm Sajid Ansari, a passionate self-taught Full Stack developer from Nepal.
 
+<a href="https://medium.com/@sajidansari33272">
+<img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/animation.gif">
+</a>
+
 **Language and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
