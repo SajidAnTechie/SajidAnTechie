@@ -1,6 +1,6 @@
 ## Hi, I'm [Sajid!](https://sajidansari.ml) :wave:
 
-Hi, I'm Sajid Ansari, a passionate self-taught Full Stack developer from Nepal.
+A passionate self-taught Full Stack developer from Nepal.
 
 
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/animation.gif">
