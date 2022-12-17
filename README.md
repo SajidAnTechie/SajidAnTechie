@@ -1,6 +1,6 @@
 ## Hi, I'm [Sajid!](https://sajidansari.ml) :wave:
 
-A passionate self-taught Full Stack developer from Nepal.
+A software engineer with a passion for building high-quality, scalable applications. With over 3 years of experience in the industry, I have a strong foundation in various programming languages and technologies. I enjoy working on projects that challenge me to think critically and solve complex problems. When I'm not coding, you can find me tinkering with new technologies or playing video games. Thank you for visiting my GitHub account, I hope you find my projects interesting and useful!
 
 
 <img src="https://github.com/SajidAnTechie/SajidAnTechie/blob/master/assests/animation.gif">
